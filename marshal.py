@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Python Compiler Marshal
 # Coded by Senja
-# Github: github.com/thesixtynine/Compiler
+# Github: github.com/thedarksec/Compiler
 
 import marshal, os, sys, time
 
@@ -82,7 +82,7 @@ print
 print
 print("\033[0m[\033[94;1m#\033[0m] \033[0mPython Compiler Marshal")
 print("\033[0m[\033[93;1m*\033[0m] \033[0mCoded by Senja")
-print("\033[0m[\033[96;1m&\033[0m] \033[0mMy Github: @thesixtynine")
+print("\033[0m[\033[96;1m&\033[0m] \033[0mMy Github: @thedarksec")
 time.sleep(1)
 print
 print("\033[0m[\033[94;1m1\033[0m] \033[77;1mPython3")
