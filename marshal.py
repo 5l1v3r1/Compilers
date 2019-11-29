@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 # Python Compiler Marshal
 # Coded by Senja
 # Github: github.com/thedarksec/Compiler
