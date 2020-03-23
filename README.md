@@ -1,5 +1,5 @@
 # Compilers:
-*Compilator adalah sebuah program komputer yang berguna untuk menerjemahkan program komputer yang ditulis dalam bahasa pemrograman tertentu menjadi program yang ditulis dalam bahasa pemrograman lain.*
+**```Compilator```** adalah sebuah program komputer yang berguna untuk menerjemahkan program komputer yang ditulis dalam bahasa pemrograman tertentu menjadi program yang ditulis dalam bahasa pemrograman lain.
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
